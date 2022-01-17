@@ -140,3 +140,20 @@ To follow along with the course schedule and syllabus, visit: https://web.stanfo
 - [ ] [Lecture 14 - Batch Reinforcement Learning](https://www.youtube.com/watch?v=zPU1SRHuAW8&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&index=14)
 - [ ] [Lecture 15 - Monte Carlo Tree Search](https://www.youtube.com/watch?v=vDF1BYWhqL8&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&index=15)
 
+## 6. Deep Multi-Task and Meta Learning
+
+- [ ] [Lecture 1 - Introduction](https://www.youtube.com/watch?v=0rZtSwNOTQo&list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5&index=1)
+- [ ] [Lecture 2 - Multi-Task & Meta Learning Basics](https://www.youtube.com/watch?v=6stKGH6zI8g&list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5&index=2)
+- [ ] [Lecture 3 - Optimization-Based Meta-Learning](https://www.youtube.com/watch?v=v7otSgpTc0Q&list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5&index=3)
+- [ ] [Lecture 4 - Non-Parametric Meta-Learning](https://www.youtube.com/watch?v=bc-6tzTyYcM&list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5&index=4)
+- [ ] [Lecture 5 - Bayesian Meta-Learning](https://www.youtube.com/watch?v=QY8JXpnllb0&list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5&index=5)
+- [ ] [Lecture 6 - Reinforcement Learning Primer](https://www.youtube.com/watch?v=UPT4Rndftc8&list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5&index=6)
+- [ ] [Lecture 7 - Kate Rakelly (UC Berkeley)](https://www.youtube.com/watch?v=k6rL4wzykGA&list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5&index=7)
+- [ ] [Lecture 8 - Model-Based Reinforcement Learning](https://www.youtube.com/watch?v=NBjcWPcCccA&list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5&index=8)
+- [ ] [Lecture 9 - Lifelong Learning](https://www.youtube.com/watch?v=c6VpDHoUIjQ&list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5&index=9)
+- [ ] [Lecture 10 - Jeff Clune (Uber AI Labs)](https://www.youtube.com/watch?v=cZUdaqTC1TA&list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5&index=10)
+- [ ] [Lecture 11 - Sergey Levine (UC Berkeley)](https://www.youtube.com/watch?v=uPhvBxjiFE4&list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5&index=11)
+- [ ] [Lecture 12 - Frontiers and Open Challenges](https://www.youtube.com/watch?v=o8CLDEAGXGo&list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5&index=12)
+- [ ] [Lecture 13 - Student Literture Review 1](https://www.youtube.com/watch?v=GRtCXZkpyRo&list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5&index=13)
+- [ ] [Lecture 14 - Student Literture Review 2](https://www.youtube.com/watch?v=huLXoPSXSx8&list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5&index=14)
+
