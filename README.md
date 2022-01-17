@@ -199,3 +199,15 @@ To follow along with the course schedule and syllabus, visit: https://web.stanfo
 - [ ] [Lecture 15 - Efficient Methods and Hardware for Deep Learning](https://www.youtube.com/watch?v=eZdOkDtYMoo&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=15)
 - [ ] [Lecture 16 - Adversarial Examples and Adersarial Training](https://www.youtube.com/watch?v=CIfsB_EYsVI&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=16)
 
+## 9. Seminars: Statistics and Data Science
+
+- [ ] [1 - How to Analyze Research Data](https://www.youtube.com/watch?v=SpZalI7nT0Q&list=PLoROMvodv4rO5jY6RA1eFVcLVY2kJU_EL&index=1)
+- [ ] [2 - Effective Data Visualization in the Era of Covid-19](https://www.youtube.com/watch?v=S2ajzPts9ag&list=PLoROMvodv4rO5jY6RA1eFVcLVY2kJU_EL&index=2)
+- [ ] [3 - Data Overload: Making Sense of Statistics in the News](https://www.youtube.com/watch?v=qb2tlWgNL60&list=PLoROMvodv4rO5jY6RA1eFVcLVY2kJU_EL&index=3)
+- [ ] [4 - Webinar: How to Be a Statistical Detective](https://www.youtube.com/watch?v=JG_gCIGFaQI&list=PLoROMvodv4rO5jY6RA1eFVcLVY2kJU_EL&index=4)
+- [ ] [5 - Advanced Technology for Common Good](https://www.youtube.com/watch?v=2hrkLFiRmag&list=PLoROMvodv4rO5jY6RA1eFVcLVY2kJU_EL&index=5)
+- [ ] [6 - Secure Data Science on the Internet of Things](https://www.youtube.com/watch?v=n2Gyz5Mbm5Q&list=PLoROMvodv4rO5jY6RA1eFVcLVY2kJU_EL&index=6)
+- [ ] [7 - Complex Coupled Networked Systems](https://www.youtube.com/watch?v=3EVel7FYEZE&list=PLoROMvodv4rO5jY6RA1eFVcLVY2kJU_EL&index=7)
+- [ ] [8 - Applying Theory to Practice](https://www.youtube.com/watch?v=zEcJhDgyTow&list=PLoROMvodv4rO5jY6RA1eFVcLVY2kJU_EL&index=8)
+- [ ] [9 - From Bytes to Bites: How Data Science Might Help Feed the World](https://www.youtube.com/watch?v=PZcRjEgZIwk&list=PLoROMvodv4rO5jY6RA1eFVcLVY2kJU_EL&index=9)
+
