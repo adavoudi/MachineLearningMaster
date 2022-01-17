@@ -157,3 +157,26 @@ To follow along with the course schedule and syllabus, visit: https://web.stanfo
 - [ ] [Lecture 13 - Student Literture Review 1](https://www.youtube.com/watch?v=GRtCXZkpyRo&list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5&index=13)
 - [ ] [Lecture 14 - Student Literture Review 2](https://www.youtube.com/watch?v=huLXoPSXSx8&list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5&index=14)
 
+## 7. Natural Language Processing with Deep Learning
+
+- [ ] [Lecture 1 - Introduction and Word Vectors](https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=1)
+- [ ] [Lecture 2 - Neural Classifiers](https://www.youtube.com/watch?v=gqaHkPEZAew&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=2)
+- [ ] [Lecture 3 - Backprop and Neural Networks](https://www.youtube.com/watch?v=X0Jw4kgaFlg&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=3)
+- [ ] [Lecture 4 - Dependency Parsing](https://www.youtube.com/watch?v=PSGIodTN3KE&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=4)
+- [ ] [Lecture 5 - Language Models and RNNs](https://www.youtube.com/watch?v=PLryWeHPcBs&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=5)
+- [ ] [Lecture 6 - Simple LSTM RNNs](https://www.youtube.com/watch?v=0LixFSa7yts&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=6)
+- [ ] [Lecture 7 - Translation, Seq2Seq, Attention](https://www.youtube.com/watch?v=wzfWHP6SXxY&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=7)
+- [ ] [Lecture 8 - Final Projects, Practical Tips](https://www.youtube.com/watch?v=gKD7jPAdbpE&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=8)
+- [ ] [Lecture 9 - Self Attention and Transformers](https://www.youtube.com/watch?v=ptuGllU5SQQ&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=9)
+- [ ] [Lecture 10 - Transformers and Pretraining](https://www.youtube.com/watch?v=j9AcEI98C0o&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=10)
+- [ ] [Lecture 11 - Question Answering](https://www.youtube.com/watch?v=NcqfHa0_YmU&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=11)
+- [ ] [Lecture 12 - Natural Language Generation](https://www.youtube.com/watch?v=1uMo8olr5ng&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=12)
+- [ ] [Lecture 13 - Coreference Resolution](https://www.youtube.com/watch?v=FFRnDRcbQQU&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=13)
+- [ ] [Lecture 14 - T5 and Large Language Models](https://www.youtube.com/watch?v=iHWkLvoSpTg&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=14)
+- [ ] [Lecture 15 - Add Knowledge to Language Models](https://www.youtube.com/watch?v=y68RJVfGoto&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=15)
+- [ ] [Lecture 16 - Social and Ethical Considerations](https://www.youtube.com/watch?v=-Ldg4qFL6bU&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=16)
+- [ ] [Lecture 17 - Model Analysis and Explanation](https://www.youtube.com/watch?v=f_qmSSBWV_E&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=17)
+- [ ] [Lecture 18 - Future of NLP + Deep Learning](https://www.youtube.com/watch?v=2t7Q9WVUaf8&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=18)
+- [ ] [Lecture 19 - Low Resource Machine Translation](https://www.youtube.com/watch?v=mp95Z5yM92c&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=19)
+- [ ] [Lecture 20 - BERT and Other Pre-trained Language Models](https://www.youtube.com/watch?v=knTc-NQSjKA&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=20)
+
