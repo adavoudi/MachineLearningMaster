@@ -86,4 +86,27 @@ To follow along with the course schedule and syllabus, visit: https://web.stanfo
 - [ ] [Lecture 18 - Deep Learning](https://www.youtube.com/watch?v=7v933EUdxzU&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX&index=18)
 - [ ] [Lecture 19 - Conclusion](https://www.youtube.com/watch?v=a0sqE7y53W8&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX&index=19)
 
+## 3. Machine Learning
+
+- [ ] [Lecture 1 - Machine Learning](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=1)
+- [ ] [Lecture 2 - Linear Regression and Gradient Descent](https://www.youtube.com/watch?v=4b4MUYve_U8&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=2)
+- [ ] [Lecture 3 - Locally Weighted & Logistic Regression](https://www.youtube.com/watch?v=het9HFqo1TQ&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=3)
+- [ ] [Lecture 4 - Perceptron & Generalized Linear Model](https://www.youtube.com/watch?v=iZTeva0WSTQ&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=4)
+- [ ] [Lecture 5 - GDA & Naive Bayes](https://www.youtube.com/watch?v=nt63k3bfXS0&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=5)
+- [ ] [Lecture 6 - Support Vector Machines](https://www.youtube.com/watch?v=lDwow4aOrtg&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=6)
+- [ ] [Lecture 7 - Kernels](https://www.youtube.com/watch?v=8NYoQiRANpg&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=7)
+- [ ] [Lecture 8 - Data Splits, Models & Cross-Validation](https://www.youtube.com/watch?v=rjbkWSTjHzM&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=8)
+- [ ] [Lecture 9 - Approx/Estimation Error & ERM](https://www.youtube.com/watch?v=iVOxMcumR4A&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=9)
+- [ ] [Lecture 10 - Decision Trees and Ensemble Methods](https://www.youtube.com/watch?v=wr9gUr-eWdA&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=10)
+- [ ] [Lecture 11 - Introduction to Neural Networks](https://www.youtube.com/watch?v=MfIjxPh6Pys&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=11)
+- [ ] [Lecture 12 - Backprop & Improving Neural Networks](https://www.youtube.com/watch?v=zUazLXZZA2U&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=12)
+- [ ] [Lecture 13 - Debuging ML Models and Error Analysis](https://www.youtube.com/watch?v=ORrStCArmP4&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=13)
+- [ ] [Lecture 14 - Expectation-Maximization Algorithms](https://www.youtube.com/watch?v=rVfZHWTwXSA&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=14)
+- [ ] [Lecture 15 - EM Algorithm and Factor Analysis](https://www.youtube.com/watch?v=tw6cmL5STuY&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=15)
+- [ ] [Lecture 16 - Independent Component Analysis and EL](https://www.youtube.com/watch?v=YQA9lLdLig8&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=16)
+- [ ] [Lecture 17 - MDPs & Value/Policy Iteration](https://www.youtube.com/watch?v=d5gaWTo6kDM&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=17)
+- [ ] [Lecture 18 - Continous State MDP & Model Simulation](https://www.youtube.com/watch?v=QFu5nuc-S0s&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=18)
+- [ ] [Lecture 19 - Reward Model & Linear Dynamical System](https://www.youtube.com/watch?v=0rt2CsEQv6U&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=19)
+- [ ] [Lecture 20 - RL Debugging and Diagnistics](https://www.youtube.com/watch?v=pLhPQynL0tY&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=20)
+
 
