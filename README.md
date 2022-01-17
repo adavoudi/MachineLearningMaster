@@ -121,3 +121,22 @@ To follow along with the course schedule and syllabus, visit: https://web.stanfo
 - [ ] [Lecture 8 - Career Advice / Reading Research Papers](https://www.youtube.com/watch?v=733m6qBH-jI&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb&index=8)
 - [ ] [Lecture 9 - Deep Reinforcement Learning](https://www.youtube.com/watch?v=NP2XqpgTJyo&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb&index=9)
 - [ ] [Lecture 10 - Chatbots / Closing Remarks](https://www.youtube.com/watch?v=IFLstgCNOA4&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb&index=10)
+
+## 5. Reinforcement Learning
+
+- [ ] [Lecture 1 - Introduction](https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&index=1)
+- [ ] [Lecture 2 - Given a Model of the World](https://www.youtube.com/watch?v=E3f2Camj0Is&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&index=2)
+- [ ] [Lecture 3 - Model-Free Policy Evaluation](https://www.youtube.com/watch?v=dRIhrn8cc9w&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&index=3)
+- [ ] [Lecture 4 - Model-Free Control](https://www.youtube.com/watch?v=j080VBVGkfQ&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&index=4)
+- [ ] [Lecture 5 - Value Function Approximation](https://www.youtube.com/watch?v=buptHUzDKcE&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&index=5)
+- [ ] [Lecture 6 - CNNs and Deep Q Learning](https://www.youtube.com/watch?v=gOV8-bC1_KU&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&index=6)
+- [ ] [Lecture 7 - Imitation Learning](https://www.youtube.com/watch?v=V7CY68zH6ps&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&index=7)
+- [ ] [Lecture 8 - Policy Gradient 1](https://www.youtube.com/watch?v=8LEuyYXGQjU&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&index=8)
+- [ ] [Lecture 9 - Policy Gradient 2](https://www.youtube.com/watch?v=E-_ecpD5PkE&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&index=9)
+- [ ] [Lecture 10 - Policy Gradient 3 & Review](https://www.youtube.com/watch?v=o_i5F1zGPLs&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&index=10)
+- [ ] [Lecture 11 - Fast Reinforcement Learning](https://www.youtube.com/watch?v=RN8qpSs8ozY&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&index=11)
+- [ ] [Lecture 12 - Fast Reinforcement Learning 2](https://www.youtube.com/watch?v=jJ7JbQBTChM&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&index=12)
+- [ ] [Lecture 13 - Fast Reinforcement Learning 3](https://www.youtube.com/watch?v=Hg_uyWezMM0&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&index=13)
+- [ ] [Lecture 14 - Batch Reinforcement Learning](https://www.youtube.com/watch?v=zPU1SRHuAW8&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&index=14)
+- [ ] [Lecture 15 - Monte Carlo Tree Search](https://www.youtube.com/watch?v=vDF1BYWhqL8&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&index=15)
+
