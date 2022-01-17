@@ -63,3 +63,27 @@ To follow along with the course schedule and syllabus, visit: https://web.stanfo
 - [ ] [Lecture 52 - VMLS nonlinear model fitting](https://www.youtube.com/watch?v=W0mamVcppBA&list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9&index=52)
 - [ ] [Lecture 53 - VMLS cstrd nonlinear LS](https://www.youtube.com/watch?v=SM_ZieyKicU&list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9&index=53)
 - [ ] [Lecture 54 - VMLS aug Lagrangian method](https://www.youtube.com/watch?v=00njRSL8WNQ&list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9&index=54) 
+
+## 2. Artificial Intelligence: Principles and Techniques
+
+- [ ] [Lecture 1 - Overview](https://www.youtube.com/watch?v=J8Eh7RqggsU&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX&index=1)
+- [ ] [Lecture 2 - Machine Learning 1 - Linear Classifiers](https://www.youtube.com/watch?v=zrT2qETJilw&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX&index=2)
+- [ ] [Lecture 3 - Machine Learning 2 - Features, Neural Networks](https://www.youtube.com/watch?v=BRgKyNdD9qU&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX&index=3)
+- [ ] [Lecture 4 - Machine Learning 3 - Generalization, K-means](https://www.youtube.com/watch?v=O9vCb30sHBA&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX&index=4)
+- [ ] [Lecture 5 - Search 1 - Dynamic Programming, Uniform Cost Search](https://www.youtube.com/watch?v=aIsgJJYrlXk&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX&index=5)
+- [ ] [Lecture 6 - Search 2 - A*](https://www.youtube.com/watch?v=HEs1ZCvLH2s&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX&index=6)
+- [ ] [Lecture 7 - Markov Decision Processes - Value Iteration](https://www.youtube.com/watch?v=9g32v7bK3Co&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX&index=7)
+- [ ] [Lecture 8 - Markove Decision Processes - Reinforcement Learning](https://www.youtube.com/watch?v=HpaHTfY52RQ&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX&index=8)
+- [ ] [Lecture 9 - Game Playing 1 - Minimax, Alpha-beta Pruning](https://www.youtube.com/watch?v=3pU-Hrz_xy4&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX&index=9)
+- [ ] [Lecture 10 - Game Playing 2 - TD Learning, Game Theory](https://www.youtube.com/watch?v=WoFwXj4p4Sc&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX&index=10)
+- [ ] [Lecture 11 - Factor Graph 1 - Constraint Satisfaction Problems](https://www.youtube.com/watch?v=Yo-xat4cn8M&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX&index=11)
+- [ ] [Lecture 12 - Factor Graph 2 - Conditional Independence](https://www.youtube.com/watch?v=o0mKSvbMunA&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX&index=12)
+- [ ] [Lecture 13 - Bayesian Networks 1 - Inference](https://www.youtube.com/watch?v=U23yuPEACG0&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX&index=13)
+- [ ] [Lecture 14 - Bayesian Networks 2 - Forward-Backward](https://www.youtube.com/watch?v=GPoj3zfX60g&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX&index=14)
+- [ ] [Lecture 15 - Bayesian Networks 3 - Maximum Likelihood](https://www.youtube.com/watch?v=Fa-rr6AXMwg&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX&index=15)
+- [ ] [Lecture 16 - Logic 1 - Propositional Logic](https://www.youtube.com/watch?v=xL0kNw5TudI&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX&index=16)
+- [ ] [Lecture 17 - Logic 2 - First-order Logic](https://www.youtube.com/watch?v=_Iz83hfkFds&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX&index=17)
+- [ ] [Lecture 18 - Deep Learning](https://www.youtube.com/watch?v=7v933EUdxzU&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX&index=18)
+- [ ] [Lecture 19 - Conclusion](https://www.youtube.com/watch?v=a0sqE7y53W8&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX&index=19)
+
+
