@@ -9,6 +9,8 @@ Topics include: Vectors, norm, and angle; linear independence and orthonormal se
 
 To follow along with the course schedule and syllabus, visit: https://web.stanford.edu/class/engr108/
 
+Link to PDF: https://web.stanford.edu/~boyd/vmls/vmls.pdf
+
 - [x] [Lecture 1 - Introduction](https://www.youtube.com/watch?v=oR6G1MUMveE&list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9&index=1) 
 - [x] [Lecture 2 - Vector Notation](https://www.youtube.com/watch?v=vVspolIKPgc&list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9&index=2)
 - [x] [Lecture 3 - Vector examples](https://www.youtube.com/watch?v=wlPiJZ1DQjs&list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9&index=3)
