@@ -1,4 +1,10 @@
-# MSc. in Machine Learning using free resources
+# Master of Machine Learning using free resources
+
+This is a self-study program for MSc. in ML using only free available materials. I try to include the solutions to every exercise, so that you can check you answers. 
+
+This program is specifically designed to be feasible for working adults to complete. The time needed will vary based on your previous experience, however you can finish it in 6-12 months if you commit yourself to study at least five days a week. 
+
+I will complete this page as I go through it myself!
 
 ## 1. Introduction to Applied Linear Algebra
 Lectures by Professor Stephen Boyd, Stanford University.
