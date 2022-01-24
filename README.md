@@ -78,7 +78,7 @@ To learn the foundation of linear algebra and probability in practice, try solvi
 
 ## 2. Artificial Intelligence: Principles and Techniques
 
-- [ ] [Lecture 1 - Overview](https://www.youtube.com/watch?v=J8Eh7RqggsU&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX&index=1)
+- [x] [Lecture 1 - Overview](https://www.youtube.com/watch?v=J8Eh7RqggsU&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX&index=1)
 - [ ] [Lecture 2 - Machine Learning 1 - Linear Classifiers](https://www.youtube.com/watch?v=zrT2qETJilw&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX&index=2)
 - [ ] [Lecture 3 - Machine Learning 2 - Features, Neural Networks](https://www.youtube.com/watch?v=BRgKyNdD9qU&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX&index=3)
 - [ ] [Lecture 4 - Machine Learning 3 - Generalization, K-means](https://www.youtube.com/watch?v=O9vCb30sHBA&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX&index=4)
