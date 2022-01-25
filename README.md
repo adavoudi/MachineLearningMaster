@@ -2,7 +2,7 @@
 ## 1. Deep Learning
 https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/deep-learning/
 
-- [ ] **L01 - Introduction** 
+- [x] **L01 - Introduction** 
 <br>1.1 Introduction \| [Video](https://www.youtube.com/watch?v=OCHbm88xUGU&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=1)
 <br>1.2 History of Deep Learning \| [Video](https://www.youtube.com/watch?v=0CFl1ZRc5TI&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=2)
 <br>1.3 Machine Learning Basics \| [Video](https://youtu.be/UNbLjVEYvLQ)
