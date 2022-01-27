@@ -8,20 +8,20 @@ https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakulta
 <br>1.3 Machine Learning Basics \| [Video](https://youtu.be/UNbLjVEYvLQ)
 <br>[Problems & Solutions](https://drive.google.com/drive/folders/1-eY0fGfnIWOEfZaBLYLejEGgNRW4tPOu?usp=sharing) Introduction to EDF
 <br><br>
-- [ ] **L02 - Computation Graphs** 
+- [x] **L02 - Computation Graphs** 
 <br>2.1 Logistic Regression \| [Video](https://www.youtube.com/watch?v=_Z50ROXYs6s&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=4)
 <br>2.2 Computation Graphs \| [Video](https://www.youtube.com/watch?v=OK_BqkyBmKA&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=5)
 <br>2.3 Backpropagation \| [Video](https://www.youtube.com/watch?v=IvmNouLN8ds&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=6)
 <br>2.4 Educational Framework \| [Video](https://www.youtube.com/watch?v=JAwhmJCaow0&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=7) 
 <br><br>
-- [ ] **L03 - Deep Neural Networks** 
+- [x] **L03 - Deep Neural Networks** 
 <br>3.1 Backpropagation with Tensors \| [Video](https://www.youtube.com/watch?v=1WGcE4hK_b0&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=8)
 <br>3.2 The XOR Problem \| [Video](https://www.youtube.com/watch?v=CCcoZzB_OXY&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=9)
 <br>3.3 Multi-Layer Perceptrons \| [Video](https://www.youtube.com/watch?v=xaW9nZUS_8I&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=10)
 <br>3.4 Universal Approximation \| [Video](https://www.youtube.com/watch?v=a0jefKspxFU&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=11) 
 <br>[Problems & Solutions](https://drive.google.com/drive/folders/1-eY0fGfnIWOEfZaBLYLejEGgNRW4tPOu?usp=sharing) Image Classification
 <br><br>
-- [ ] **L04 - Deep Neural Networks II** 
+- [x] **L04 - Deep Neural Networks II** 
 <br>4.1 Output and Loss Functions \| [Video](https://www.youtube.com/watch?v=7xTyZE9mRNk&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=12)
 <br>4.2 Activation Functions \| [Video](https://www.youtube.com/watch?v=hVCOL99HL0I&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=13)
 <br>4.3 Preprocessing and Initialization \| [Video](https://www.youtube.com/watch?v=Y9iEd8x6ivg&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=14)
