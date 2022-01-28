@@ -26,7 +26,7 @@ https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakulta
 <br>4.2 Activation Functions \| [Video](https://www.youtube.com/watch?v=hVCOL99HL0I&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=13)
 <br>4.3 Preprocessing and Initialization \| [Video](https://www.youtube.com/watch?v=Y9iEd8x6ivg&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=14)
 <br><br>
-- [ ] **L05 - Regularization** 
+- [x] **L05 - Regularization** 
 <br>5.1 Parameter Penalties \| [Video](https://www.youtube.com/watch?v=OEbu8oDsMms&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=15)
 <br>5.2 Early Stopping \| [Video](https://www.youtube.com/watch?v=PVec2wps_N0&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=16)
 <br>5.3 Ensemble Methods \| [Video](https://www.youtube.com/watch?v=63DK_PeGIeM&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=17)
@@ -34,11 +34,7 @@ https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakulta
 <br>5.5 Data Augmentation \| [Video](https://www.youtube.com/watch?v=qFowQQDWDho&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=19)
 <br>[Problems & Solutions](https://drive.google.com/drive/folders/1-eY0fGfnIWOEfZaBLYLejEGgNRW4tPOu?usp=sharing) Regularization and Optimization
 <br><br>
-- [ ] **L04 - Deep Neural Networks II** 
-<br>4.1 Output and Loss Functions \| [Video](https://www.youtube.com/watch?v=7xTyZE9mRNk&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=12)
-<br>4.2 Activation Functions \| [Video](https://www.youtube.com/watch?v=hVCOL99HL0I&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=13)
-<br>4.3 Preprocessing and Initialization \| [Video](https://www.youtube.com/watch?v=Y9iEd8x6ivg&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=14)
-<br><br>
+
 - [ ] **L06 - Optimization** 
 <br>6.1 Optimization Challenges \| [Video](https://www.youtube.com/watch?v=ZW0i-iYho74&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=20)
 <br>6.2 Optimization Algorithms \| [Video](https://www.youtube.com/watch?v=ck_ebwdxf-A&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=21)
