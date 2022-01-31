@@ -35,7 +35,7 @@ https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakulta
 <br>[Problems & Solutions](https://drive.google.com/drive/folders/1-eY0fGfnIWOEfZaBLYLejEGgNRW4tPOu?usp=sharing) Regularization and Optimization
 <br><br>
 
-- [ ] **L06 - Optimization** 
+- [x] **L06 - Optimization** 
 <br>6.1 Optimization Challenges \| [Video](https://www.youtube.com/watch?v=ZW0i-iYho74&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=20)
 <br>6.2 Optimization Algorithms \| [Video](https://www.youtube.com/watch?v=ck_ebwdxf-A&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=21)
 <br>6.3 Optimization Strategies \| [Video](https://www.youtube.com/watch?v=4EJKlREyIZ4&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=22)
