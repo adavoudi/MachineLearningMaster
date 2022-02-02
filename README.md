@@ -41,7 +41,7 @@ https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakulta
 <br>6.3 Optimization Strategies \| [Video](https://www.youtube.com/watch?v=4EJKlREyIZ4&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=22)
 <br>6.4 Debugging Strategies \| [Video](https://www.youtube.com/watch?v=mdBNMgVAiYA&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=23)
 <br><br>
-- [ ] **L07 - Convolutional Neural Networks** 
+- [x] **L07 - Convolutional Neural Networks** 
 <br>7.1 Convolution \| [Video](https://www.youtube.com/watch?v=5dJlhYJmrzw&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=24)
 <br>7.2 Downsampling \| [Video](https://www.youtube.com/watch?v=xnkDcNPg1-c&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=25)
 <br>7.3 Upsampling \| [Video](https://www.youtube.com/watch?v=va9NW8qbp7k&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=26)
@@ -49,7 +49,7 @@ https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakulta
 <br>7.5 Visualization \| [Video](https://www.youtube.com/watch?v=d19_WuTtCt8&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=28)
 <br>[Problems & Solutions](https://drive.google.com/drive/folders/1-eY0fGfnIWOEfZaBLYLejEGgNRW4tPOu?usp=sharing) CNNs and Sequence Models
 <br><br>
-- [ ] **L08 - Sequence Models** 
+- [x] **L08 - Sequence Models** 
 <br>8.1 Recurrent Networks \| [Video](https://www.youtube.com/watch?v=qqaOIObSas0&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=29)
 <br>8.2 Recurrent Network Applications \| [Video](https://www.youtube.com/watch?v=Zg2WuGoT_7A&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=30)
 <br>8.3 Gated Recurrent Networks \| [Video](https://www.youtube.com/watch?v=CsX0TelwR-s&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=31)
