@@ -54,8 +54,8 @@ https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakulta
 <br>8.2 Recurrent Network Applications \| [Video](https://www.youtube.com/watch?v=Zg2WuGoT_7A&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=30)
 <br>8.3 Gated Recurrent Networks \| [Video](https://www.youtube.com/watch?v=CsX0TelwR-s&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=31)
 <br>8.4 Autoregressive Models \| [Video](https://www.youtube.com/watch?v=vwG3KWzuACo&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=32)
-<br><br>
-- [ ] **L09 - Natural Language Processing** 
+<br<br>
+- [x] **L09 - Natural Language Processing** 
 <br>9.1 Language Models \| [Video](https://www.youtube.com/watch?v=xTiSIyizVZA&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=33)
 <br>9.2 Traditional Language Models \| [Video](https://www.youtube.com/watch?v=iBba_5KBgKA&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=34)
 <br>9.3 Neural Language Models \| [Video](https://www.youtube.com/watch?v=HdqyAim2UNE&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=35)
